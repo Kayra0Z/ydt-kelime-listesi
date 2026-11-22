@@ -52,7 +52,7 @@ EnglishAFL'de iki kelime listesi ve bir phrasal verb listesi var:
 | :--- | :--- | :--- | :--- |
 | Kapsam | Geniş: 1300 kelimeye sınavlarda en sık çıkan diğer kelimeler eklendi | Seçilmiş: en gerekli ve önemli kelimeler | Şıklarda çıkan tüm phrasal verb'ler ve parçalarda sık geçenler |
 | İçerik | Anlam, örnek cümle, seviye | Anlam, örnek cümle, seviye | Anlam, tek kelimelik karşılık, örnek cümle |
-| Anki | [Deste](https://ankiweb.net/shared/info/2034804184) | [Deste](https://ankiweb.net/shared/info/495098837) | Yakında |
+| Anki | [Deste](https://ankiweb.net/shared/info/2034804184) | [Deste](https://ankiweb.net/shared/info/495098837) | [Deste](https://ankiweb.net/shared/info/2081137670) |
 | Kimin için | Kelime bilgisini baştan sona kontrol etmek isteyenler | Sınava kısa süre kalanlar, daha az ama önemli kelimeye çalışmak isteyenler | Phrasal verb sorularına hazırlananlar |
 
 ## Nasıl kullanmalıyım?
