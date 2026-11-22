@@ -18,6 +18,10 @@ Bu repo, YDT ve YDS'ye hazırlananlar için **3239 kelimelik ücretsiz bir kelim
 
 Hazırlayan: Kayra Y. · [EnglishAFL](https://englishafl.site) · [Telegram kanalı](https://t.me/s/englishafl)
 
+## In English
+
+A free YDT and YDS vocabulary list for Turkish students preparing for the YDT (the YKS foreign language test), YDS and YÖKDİL English exams. It covers 3239 English words picked from all 28 YDT and YDS papers from 2018 to 2026 (9 YDT, 19 YDS). Each word has its level, the number of exams it appeared in, the Turkish meanings it had in those exams and an example sentence under each meaning. It comes as a PDF (186 pages), TXT, CSV and an Anki deck, licensed under GPLv3. A shorter 1300-word version and the searchable list are at [englishafl.site/sayfalar/ydt-kelime-listesi](https://englishafl.site/sayfalar/ydt-kelime-listesi/).
+
 ## Liste hakkında
 
 | | |
