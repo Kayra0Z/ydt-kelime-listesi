@@ -59,6 +59,8 @@ EnglishAFL'de iki kelime listesi ve bir phrasal verb listesi var:
 | Anki | [Deste](https://ankiweb.net/shared/info/2034804184) | [Deste](https://ankiweb.net/shared/info/495098837) | [Deste](https://ankiweb.net/shared/info/2081137670) |
 | Kimin için | Kelime bilgisini baştan sona kontrol etmek isteyenler | Sınava kısa süre kalanlar, daha az ama önemli kelimeye çalışmak isteyenler | Phrasal verb sorularına hazırlananlar |
 
+Preposition'lar için ayrı bir liste var: [YDT Preposition Listesi (250 kalıp)](https://github.com/Kayra0Z/ydt-preposition-listesi), 178 preposition sorusunda çıkan kalıplar (due to, despite) ve parçalarda sık geçenler (impact on, responsible for).
+
 ## Nasıl kullanmalıyım?
 
 Kelime öğrenmek için önerdiğim yol ezber değil, İngilizce metin okumak: makale, kitap vs. Bu listenin en önemli ve bence en çok işe yarayan görevi eksiklerinizi görmenizi sağlaması. Mesela sınava kısa süre kala bilmediğiniz kelime kalıp kalmadığını görmek için gözden geçirebilirsiniz. Yine de ezberlemek isterseniz Anki kullanabilirsiniz, bir şeyleri ezberlemenin en iyi yoludur.
