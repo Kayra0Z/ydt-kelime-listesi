@@ -59,7 +59,7 @@ EnglishAFL'de iki kelime listesi ve bir phrasal verb listesi var:
 | Anki | [Deste](https://ankiweb.net/shared/info/2034804184) | [Deste](https://ankiweb.net/shared/info/495098837) | [Deste](https://ankiweb.net/shared/info/2081137670) |
 | Kimin için | Kelime bilgisini baştan sona kontrol etmek isteyenler | Sınava kısa süre kalanlar, daha az ama önemli kelimeye çalışmak isteyenler | Phrasal verb sorularına hazırlananlar |
 
-Preposition'lar için ayrı bir liste var: [YDT Preposition Listesi (250 kalıp)](https://github.com/Kayra0Z/ydt-preposition-listesi), 178 preposition sorusunda çıkan kalıplar (due to, despite) ve parçalarda sık geçenler (impact on, responsible for).
+Preposition'lar için ayrı bir liste var: [YDT Preposition Listesi (250 kalıp)](https://github.com/Kayra0Z/ydt-preposition-listesi), 178 preposition sorusunda çıkan kalıplar (due to, despite) ve parçalarda sık geçenler (impact on, responsible for). Bağlaçlar için de: [YDT Bağlaçlar Listesi (79 bağlaç)](https://github.com/Kayra0Z/ydt-baglaclar-listesi), 150 bağlaç sorusunun şıklarında çıkan bağlaçlar.
 
 ## Nasıl kullanmalıyım?
 
