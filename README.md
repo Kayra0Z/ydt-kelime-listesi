@@ -1,6 +1,6 @@
 # YDT ve YDS Kelime Listesi (3239 Kelime, PDF, TXT ve CSV)
 
-> YDT, YDS ve YÖKDİL'e hazırlananlar için ücretsiz kelime listesi: anlam, seviye ve örnek cümleleriyle
+> YDT, YDS ve YÖKDİL'e hazırlananlar için ücretsiz çıkmış kelimeler listesi: 28 çıkmış sınavdaki kelimeler, anlam, seviye ve örnek cümleleriyle
 
 <p>
   <a href="https://github.com/Kayra0Z/ydt-kelime-listesi/releases"><img src="https://img.shields.io/github/downloads/Kayra0Z/ydt-kelime-listesi/total.svg?label=%C4%B0ndirme" alt="Toplam indirme sayısı"></a>
