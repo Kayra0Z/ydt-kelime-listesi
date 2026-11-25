@@ -29,6 +29,7 @@ A free YDT and YDS vocabulary list for Turkish students preparing for the YDT (t
 | Kelime sayısı | 3239 |
 | İçerik | Türkçe anlamlar, her anlamın altında örnek cümle, seviye, kaç sınavda çıktığı, bazı kelimelerde not |
 | Kaynak | ÖSYM'nin 2018–2026 arasındaki tüm YDT ve YDS sınavları (28 sınav) |
+| YÖKDİL | Benzer akademik kelimeleri kullandığı için YÖKDİL'e hazırlananlar için de uygun |
 | Düzen | Kaç sınavda çıktığına göre dört grup (10+, 5–9, 2–4, 1), her grupta alfabetik |
 | Format | PDF, TXT, CSV, Anki destesi |
 | Ücret | Ücretsiz, reklamsız |
